@@ -2,26 +2,15 @@
 
 This folder contains operations information that intersects with sales workflows.
 
-## Status
+## Contents
 
-**Placeholder** — content to be imported from curated vault notes.
+### Deal Operations
+- [deal-operations.md](deal-operations.md) — BBYS deal operations and escalation patterns
+- [bbys-failure-taxonomy.md](bbys-failure-taxonomy.md) — Deal failure taxonomy (HubSpot)
 
-## Planned Content
-
-### Handoffs & Workflows
-- Sales → Ops handoff procedures
-- What sales needs to set up for a smooth ops transition
-- Common handoff issues and how to avoid them
-
-### Timelines & SLAs
-- Standard timelines by program
-- SLA expectations sales can communicate to clients
-- What causes delays and how to set expectations
-
-### Escalations
-- When and how to escalate ops issues
-- Who to contact for specific situations
-- Escalation paths and response times
+### Payments
+- [payments-ops-bible.md](payments-ops-bible.md) — Payments ops bible (LO/partner level)
+- [bbys-payment-process-improvement.md](bbys-payment-process-improvement.md) — BBYS LO payment process improvement
 
 ## Contributing
 
