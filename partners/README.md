@@ -2,26 +2,15 @@
 
 This folder contains partner information relevant to sales conversations.
 
-## Status
+## Contents
 
-**Placeholder** — content to be imported from curated vault notes.
+### Partner Overview
+- [partners.md](partners.md) — Partner records, waterfalls, and channel context
 
-## Planned Content
-
-### Lender Partners
-- Lender-specific requirements that affect sales
-- Integration touchpoints and timelines
-- Lender positioning for client conversations
-
-### Agent Partners
-- Agent network context useful for sales
-- Co-marketing and referral dynamics
-- Agent objection handling
-
-### Integration Context
-- How programs connect with partner systems
-- Handoff points and responsibilities
-- Partner-specific constraints or opportunities
+### Partner Decisions
+- [partner-cascade.md](partner-cascade.md) — Decision: Partner associations cascade
+- [partner-waterfall-reorder.md](partner-waterfall-reorder.md) — Decision: Partner slug authoritative
+- [fifth-third-is-builder.md](fifth-third-is-builder.md) — Decision: Fifth Third is Builder channel
 
 ## Contributing
 

@@ -2,18 +2,9 @@
 
 This folder contains knowledge base content for HomeLight's HELOC product.
 
-## Status
+## Contents
 
-**Placeholder** — content to be imported from curated vault notes.
-
-## Planned Content
-
-- Product overview and mechanics
-- Rates, terms, and eligibility
-- Positioning vs. traditional HELOCs
-- Use cases (bridge financing, renovation, etc.)
-- Sales talk tracks and discovery questions
-- Competitive differentiation
+- [heloc-product.md](heloc-product.md) — HELOC / Equity Boost companion product overview
 
 ## Contributing
 
